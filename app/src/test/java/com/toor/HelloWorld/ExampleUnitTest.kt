@@ -1,4 +1,4 @@
-package com.toor.kotlinapprentice
+package com.toor.HelloWorld
 
 import org.junit.Test
 

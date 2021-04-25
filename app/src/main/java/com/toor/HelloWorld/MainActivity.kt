@@ -1,4 +1,4 @@
-package com.toor.kotlinapprentice
+package com.toor.HelloWorld
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
