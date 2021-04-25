@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApprentice</string>
+    <string name="initialcount">0</string>
+    <string name="increase_count">Increase count</string>
+</resources>
